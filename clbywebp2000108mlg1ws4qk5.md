@@ -1,4 +1,4 @@
-# JavaScript Execution context
+# JavaScript Execution Context
 
 **Execution context** (**EC**) is defined as the environment in which the JavaScript code is executed. By environment, I mean the value of `this`, *variables*, *objects*, and *functions* JavaScript code has access to at a particular time.
 
